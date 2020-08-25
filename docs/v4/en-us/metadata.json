@@ -10,7 +10,7 @@
       "Name": "Teams",
       "Subjects": []
     },
-    {
+ {
       "Id": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "Name": "Produce content",
       "Subjects": [
@@ -32,17 +32,18 @@
       "Image": "",
       "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "SubjectId": "",
-      "Source": "Clicklearn",
+     "Source": "Clicklearn",
      
     },
-    {
+	{
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Produce Content",
       "Image": "",
       "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "SubjectId": "",
-      "Source": "Clicklearn",
-    }
+     "Source": "Clicklearn",
+     
+    },
   ],
   "Audiences": [
     {

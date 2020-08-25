@@ -1,79 +1,47 @@
 [
   {
     "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a2",
-    "Title": "Outlook testing",
-    "Description": "", 
-    "Url": "https://content.development.clicklearn.dk/cloud/clicklearn222/00000000-0000-0000-0000-000000000000/3FD82C1C-5B01-4830-B55D-14E49C401B50.1033/MS%20Outlook.htm?b=New%20book&r=OutlookWeb",
+    "Title": "Outlook",
+    "Description": "",
+    "Url": "https://content.development.clicklearn.dk/cloud/clicklearn222/00000000-0000-0000-0000-000000000000/5D7F3AEC-F8CB-4B43-AC2F-D360FC5BBEB5.1033/New%20book.htm?b=&r=OutlookWeb",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "niketa",
+    "Source": "Clicklearn",
     "StatusTagId": "",
     "StatusNote": ""
   },
   {
     "Id": "2819116b-ce59-41aa-8a50-a9cb5af1be45",
-    "Title": "LMSdemo video",
+    "Title": "EOI",
     "Description": "",
-    "Url": "https://www.youtube.com/watch?v=-sLXl_rKGxQ",
+    "Url": "https://content.development.clicklearn.dk/cloud/clicklearn222/00000000-0000-0000-0000-000000000000/4613FB8A-4D55-4002-973D-69F9D153D019.1033/Email%20Management.htm",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+     "Source": "Clicklearn",
     "StatusTagId": "",
     "StatusNote": ""
   },
   {
     "Id": "b53e628a-3558-44be-b14e-1a9700c9c37a",
-    "Title": "PnP Remote Provisioning Overview",
+    "Title": "PowerBI",
     "Description": "",
     "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-remote-provisioning?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+     "Source": "Clicklearn",
     "StatusTagId": "",
     "StatusNote": ""
   },
   {
     "Id": "9faefc4b-60e8-46ef-892c-791e030a8d28",
-    "Title": "Introducing the PnP provisioning engine",
+    "Title": "Teams",
     "Description": "",
     "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
+     "Source": "Clicklearn",
     "StatusTagId": "",
     "StatusNote": ""
   },
-  {
-    "Id": "2d194e23-a11c-4821-bc68-7a57c7cd2940",
-    "Title": "PnP provisioning engine and the Core library",
-    "Description": "",
-    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-engine-and-the-core-library?context=context%2Fchromeless&linktarget=true",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "22a36fe4-99c7-4ae1-b9d3-9404fcb05595",
-    "Title": "Provisioning console application sample",
-    "Description": "",
-    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/provisioning-console-application-sample?context=context%2Fchromeless&linktarget=true",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "8dcba564-d82a-4220-b5ad-f2f55f67fa29",
-    "Title": "PnP Powershell Overview",
-    "Description": "",
-    "Url": "https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?context=context%2Fchromeless&linktarget=true",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "JulieTurner",
-    "StatusTagId": "",
-    "StatusNote": ""
-  }
+  
 ]

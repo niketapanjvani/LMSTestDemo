@@ -9,20 +9,6 @@
       "Id": "24a63b0c-4f0e-4565-93d7-9b8a981e960f",
       "Name": "Teams",
       "Subjects": []
-    },
- {
-      "Id": "c946268b-7fa1-4778-8e85-2b65b5186947",
-      "Name": "Produce content",
-      "Subjects": [
-        {
-          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a13",
-          "Name": "Outlook"
-        },
-        {
-          "Id": "988803d4-3979-41e8-ba3f-1242324b0688",
-          "Name": "Teams"
-        }
-      ]
     }
   ],
   "Categories": [
@@ -32,17 +18,17 @@
       "Image": "",
       "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "SubjectId": "",
-     "Source": "Clicklearn",
-     
+      "Source": "Clicklearn",
+
     },
-	{
+    {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Produce Content",
       "Image": "",
       "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "SubjectId": "",
-     "Source": "Clicklearn",
-     
+      "Source": "Clicklearn",
+
     }
   ],
   "Audiences": [

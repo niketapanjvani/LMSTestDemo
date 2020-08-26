@@ -1,47 +1,68 @@
 [
-  {
-    "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a2",
-    "Title": "Outlook",
-    "Description": "",
-    "Url": "https://content.development.clicklearn.dk/cloud/clicklearn222/00000000-0000-0000-0000-000000000000/5D7F3AEC-F8CB-4B43-AC2F-D360FC5BBEB5.1033/New%20book.htm?b=&r=OutlookWeb",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "Clicklearn",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "2819116b-ce59-41aa-8a50-a9cb5af1be45",
-    "Title": "EOI",
-    "Description": "",
-    "Url": "https://content.development.clicklearn.dk/cloud/clicklearn222/00000000-0000-0000-0000-000000000000/4613FB8A-4D55-4002-973D-69F9D153D019.1033/Email%20Management.htm",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-     "Source": "Clicklearn",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "b53e628a-3558-44be-b14e-1a9700c9c37a",
-    "Title": "PowerBI",
-    "Description": "",
-    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-remote-provisioning?context=context%2Fchromeless&linktarget=true",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-     "Source": "Clicklearn",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "9faefc4b-60e8-46ef-892c-791e030a8d28",
-    "Title": "Teams",
-    "Description": "",
-    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine?context=context%2Fchromeless&linktarget=true",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-     "Source": "Clicklearn",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  
+   {
+      "Id": "28dad67b-adb8-4df5-822b-677d81968eda",
+      "Title": "Teams_CallAndFilesAndAllOtherStuff_23rdApril2020",
+      "Description": "",
+      "Url": "https://content.development.clicklearn.dk/publiccloud/clicklearn222/00000000-0000-0000-0000-000000000000/D9281822-300C-42AD-B51D-E4E7BA9A28EB.1033/Web%20Portal.htm?b=Teams&r=Teams_CallAndFilesAndAllOtherStuff_23rdApril2020",
+      "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "StatusTagId": "",
+      "StatusNote": ""
+   },
+    {
+      "Id": "ad53c07f-9b48-4875-ad4d-12dbc8a3428b",
+      "Title": "Teams_Calendar_23rdApril2020",
+      "Description": "",
+      "Url": "https://content.development.clicklearn.dk/publiccloud/clicklearn222/00000000-0000-0000-0000-000000000000/D9281822-300C-42AD-B51D-E4E7BA9A28EB.1033/Web%20Portal.htm?b=Teams&r=Teams_Calendar_23rdApril2020",
+      "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "StatusTagId": "",
+      "StatusNote": ""
+   },
+   {
+      "Id": "5799661d-eb4c-4716-8e24-1a73a7e46d5b",
+      "Title": "Teams_ActivityWithTeams_23rdApril2020",
+      "Description": "",
+      "Url": "https://content.development.clicklearn.dk/publiccloud/clicklearn222/00000000-0000-0000-0000-000000000000/D9281822-300C-42AD-B51D-E4E7BA9A28EB.1033/Web%20Portal.htm?b=Teams&r=Teams_ActivityWithTeams_23rdApril2020",
+      "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "SubjectId": "",
+      "Source": "Microsoft",
+       "StatusTagId": "",
+      "StatusNote": ""
+   },
+   {
+      "Id": "39a23830-452d-474c-ae1f-47a6ebefa21a",
+      "Title": "Office365Excel_26thjune",
+      "Description": "",
+      "Url": "https://content.development.clicklearn.dk/publiccloud/clicklearn222/00000000-0000-0000-0000-000000000000/D9281822-300C-42AD-B51D-E4E7BA9A28EB.1033/Web%20Portal.htm?b=Excel&r=Office365Excel_26thjune",
+      "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "StatusTagId": "",
+      "StatusNote": ""
+   },
+   {
+      "Id": "f7910322-a8f9-4ccf-aa0f-1e8a0f02c9db",
+      "Title": "CompanyScrudOperation",
+      "Description": "",
+      "Url": "https://content.development.clicklearn.dk/publiccloud/clicklearn222/00000000-0000-0000-0000-000000000000/D9281822-300C-42AD-B51D-E4E7BA9A28EB.1033/Web%20Portal.htm?b=Portal&r=CompanyScrudOperation",
+      "TechnologyId": "59989021-e9d3-43dc-9a99-0c2b5878b609",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "StatusTagId": "",
+      "StatusNote": ""
+   },
+   {
+      "Id": "0935eea3-1195-4104-943d-1f8dac53804e",
+      "Title": "FinalUserFlow",
+      "Description": "",
+      "Url": "https://content.development.clicklearn.dk/publiccloud/clicklearn222/00000000-0000-0000-0000-000000000000/D9281822-300C-42AD-B51D-E4E7BA9A28EB.1033/Web%20Portal.htm?b=Portal&r=FinalUserFlow",
+      "TechnologyId": "59989021-e9d3-43dc-9a99-0c2b5878b609",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "StatusTagId": "",
+      "StatusNote": ""
+   }
 ]

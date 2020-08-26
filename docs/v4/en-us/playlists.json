@@ -1,41 +1,164 @@
 [
-  {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Clicklearn LMS",
-    "Image": "CLLogo/CarttonWithHeart2.png",
-    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
-    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "Clicklearn",
-    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-    "Description": "Clicklearn learning material for Recording.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      
-            "3b72f30f-1438-4551-b009-8ad6f7d924a2"
-     
-    ]
-  },
-  {
-    "Id": "7ea7584c-1d5f-456e-8bd8-607bcdbc747f",
-    "Title": "Produce content",
-    "Image": "CLLogo/cl-wallpaper-05",
-    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
-    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
-    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-    "Source": "Clicklearn",
-    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-    "Description": "Recording content.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "9faefc4b-60e8-46ef-892c-791e030a8d28",
-      "3b72f30f-1438-4551-b009-8ad6f7d924a2",
-      "2819116b-ce59-41aa-8a50-a9cb5af1be45",
-      "b53e628a-3558-44be-b14e-1a9700c9c37a",
-    ]
-  }
+   {
+      "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+      "Title": "Teams",
+      "Image": "images/playlists/share_and_coauthor.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+      "Description": "Learn about Teams.",
+      "StatusTagId": "",
+      "StatusNote": "",
+      "Assets": [
+         "28dad67b-adb8-4df5-822b-677d81968eda",
+         "ad53c07f-9b48-4875-ad4d-12dbc8a3428b",
+         "5799661d-eb4c-4716-8e24-1a73a7e46d5b"
+      ]
+   },
+    {
+      "Id": "2fe834b0-e71a-49e6-a980-204c608026a5",
+      "Title": "Excel",
+      "Image": "images/playlists/forms_quick_startx.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+      "Description": "Learn about Excel.",
+      "StatusTagId": "",
+      "StatusNote": "",
+      "Assets": [
+         "39a23830-452d-474c-ae1f-47a6ebefa21a"
+      ]
+   },
+   {
+      "Id": "c186b125-d825-4111-a330-257aa4d5180f",
+      "Title": "Portal",
+      "Image": "images/playlists/forms_quick_startx.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "TechnologyId": "59989021-e9d3-43dc-9a99-0c2b5878b609",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+      "Description": "Learn about Excel.",
+      "StatusTagId": "",
+      "StatusNote": "",
+     "Assets": [
+         "f7910322-a8f9-4ccf-aa0f-1e8a0f02c9db",
+         "0935eea3-1195-4104-943d-1f8dac53804e"
+      ]
+   },
+   {
+      "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
+      "Title": "Excel",
+      "Image": "images/playlists/forms_quick_startx.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "d91e99dd-5f0e-4294-a1dd-6222212d172b",
+      "Description": "Learn about Excel.",
+      "StatusTagId": "",
+      "StatusNote": "",
+      "Assets": [
+         "39a23830-452d-474c-ae1f-47a6ebefa21a"
+      ]
+   },
+   {
+      "Id": "1443a7f8-b90e-4dc2-84f4-27ff173103be",
+      "Title": "Teams",
+      "Image": "images/playlists/forms_quick_startx.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "d91e99dd-5f0e-4294-a1dd-6222212d172b",
+      "Description": "Learn about Teams.",
+      "StatusTagId": "",
+      "StatusNote": "",
+       "Assets": [
+         "28dad67b-adb8-4df5-822b-677d81968eda",
+         "ad53c07f-9b48-4875-ad4d-12dbc8a3428b",
+         "5799661d-eb4c-4716-8e24-1a73a7e46d5b"
+      ]
+   },
+   {
+      "Id": "7c39767c-6e76-48ab-bf3c-3106d22e4695",
+      "Title": "Portal",
+      "Image": "images/playlists/forms_quick_startx.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "TechnologyId": "59989021-e9d3-43dc-9a99-0c2b5878b609",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "d91e99dd-5f0e-4294-a1dd-6222212d172b",
+      "Description": "Learn about Portal.",
+      "StatusTagId": "",
+      "StatusNote": "",
+      "Assets": [
+         "f7910322-a8f9-4ccf-aa0f-1e8a0f02c9db",
+         "0935eea3-1195-4104-943d-1f8dac53804e"
+      ]
+   },
+   {
+      "Id": "c6a35b3b-4102-46b2-b82e-0e4ef71be884",
+      "Title": "Portal",
+      "Image": "images/playlists/forms_quick_startx.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "TechnologyId": "59989021-e9d3-43dc-9a99-0c2b5878b609",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "e82ed816-d90e-44c1-b06e-10136cc323f0",
+      "Description": "Learn about Portal.",
+      "StatusTagId": "",
+      "StatusNote": "",
+      "Assets": [
+         "f7910322-a8f9-4ccf-aa0f-1e8a0f02c9db",
+         "0935eea3-1195-4104-943d-1f8dac53804e"
+      ]
+   },
+     {
+      "Id": "33b80425-92ce-4c12-9059-333b2e931583",
+      "Title": "Teams",
+      "Image": "images/playlists/forms_quick_startx.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "e82ed816-d90e-44c1-b06e-10136cc323f0",
+      "Description": "Learn about Teams.",
+      "StatusTagId": "",
+      "StatusNote": "",
+     "Assets": [
+         "28dad67b-adb8-4df5-822b-677d81968eda",
+         "ad53c07f-9b48-4875-ad4d-12dbc8a3428b",
+         "5799661d-eb4c-4716-8e24-1a73a7e46d5b"
+      ]
+   },
+   {
+      "Id": "1c432065-6ad8-4bbe-bb3d-33cceaabf7d8",
+      "Title": "Excel",
+      "Image": "images/playlists/forms_quick_startx.png",
+      "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "CatId": "e82ed816-d90e-44c1-b06e-10136cc323f0",
+      "Description": "Learn about Teams.",
+      "StatusTagId": "",
+      "StatusNote": "",
+     "Assets": [
+        "39a23830-452d-474c-ae1f-47a6ebefa21a"
+      ]
+   }
 ]
